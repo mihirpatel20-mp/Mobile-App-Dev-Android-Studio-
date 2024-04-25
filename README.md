@@ -41,6 +41,6 @@ This app was created by Mihirkumar Patel as a personal project.
 
 ## License
 
-This project is licensed under the [License Name]. See the LICENSE file for details.  
+This project is licensed under the This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.  
 
 
